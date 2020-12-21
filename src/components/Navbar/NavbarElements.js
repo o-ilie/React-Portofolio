@@ -19,7 +19,7 @@ export const Nav = styled.nav`
 `;
 
 export const NavbarContainer = styled.div`
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono", monospace;
     display: flex;
     justify-content: space-between;
     height: 80px;
