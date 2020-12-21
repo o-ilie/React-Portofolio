@@ -42,7 +42,7 @@ export const SocialLogo = styled(Link)`
     align-items: center;
     margin-bottom: 16px;
     font-weight: bold;
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono", monospace;
 
     &:hover {
         color: #9b7ede;
