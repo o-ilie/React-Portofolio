@@ -67,7 +67,7 @@ export const HeroContent = styled.div`
     padding: 20px;
     padding-left: 60px;
     font-size: 28px;
-    font-family: 'Roboto Mono', sans-serif;
+    font-family: 'Roboto Mono', monospace;
     font-weight: 400;
 
     @media screen and (max-width: 480px) {
