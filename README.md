@@ -1,4 +1,4 @@
-Visit - https://react-portofolio-r3xxrkg9f.vercel.app
+Visit - https://react-portofolio.vercel.app/
 
 # Getting Started with Create React App
 
