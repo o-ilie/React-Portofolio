@@ -22,7 +22,7 @@ export const StyledButton = styled.button`
 export const Container = styled.div`
     margin: 100px auto; 
     max-width: 500px;  
-    font-family: "Roboto Mono";
+    font-family: "Roboto Mono", monospace;
 
     @media screen and (max-width: 786px) {
         max-width: 350px;
