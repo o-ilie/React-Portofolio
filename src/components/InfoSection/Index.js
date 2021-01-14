@@ -33,7 +33,7 @@ import {
                                 <Subtitle>
                                     I started to study web development in June 2020, on BitAcademy. 
                                     Now I want to focus on improving my skills with CSS and JavaScript and 
-                                    learning React. </br>
+                                    learning React.
                                     Right now my main goal is to find a job that will give me an opportunity to improve my programming skills.       
                                 </Subtitle>
                                 <BtnWrapp>
