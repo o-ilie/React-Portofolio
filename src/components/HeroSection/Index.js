@@ -22,7 +22,7 @@ const HeroSection = () => {
                         <Typist avgTypingDelay={50} cursor={{ show: false }}>
                             <HeroP> Hello, I am </HeroP> <br/>
                             <HeroH1>Ilie Ioana </HeroH1>
-                            <HeroP> Front-End Web Developer</HeroP>
+                            <HeroP> Junior Front-End Web Developer</HeroP>
                         </Typist>
                     </HeroContent>  
                 </HeroMonitor>
