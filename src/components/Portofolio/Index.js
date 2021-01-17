@@ -29,9 +29,9 @@ const Portofolio = () => {
                      <InfoRow>
                          <Column1>
                              <TextWrapper>
-                                 <Heading>Portofolio</Heading>
+                                 <Heading>Portfolio</Heading>
                                  <Subtitle>
-                                    I am a Creative Developer and I make thinks work. 
+                                    I am a Creative Developer and I make things work. 
                                     Turning your dreams into reality.
                                  </Subtitle>
                                  <BtnWrapp>
